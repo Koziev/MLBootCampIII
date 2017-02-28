@@ -1,1 +1,1 @@
-Модели для http://mlbootcamp.ru/championship/10/
+Models for participation in http://mlbootcamp.ru/championship/10/
